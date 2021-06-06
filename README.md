@@ -1,6 +1,6 @@
 Here are some project for the purpose of testing python mutation tools. Those projects are not written by the repository owner.
 
-tempaerture				https://scipython.com/book/chapter-9-general-scientific-programming/examples/unit-test-example/
+temperature				https://scipython.com/book/chapter-9-general-scientific-programming/examples/unit-test-example/
 
 calculator				https://medium.com/@mashood.snhu/a-quick-start-guide-to-python-unittest-part-1-9653683637ca
 
